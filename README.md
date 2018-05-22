@@ -38,7 +38,9 @@
 |  | ALL | ALL | ALL| **5100**|
 
 ### (2) standard SQL construct
-> SELECT *L, T, I, SUM(M)* FROM *R* GROUP BY *L, T, I* UNION *ALL*
+```SQL
+SELECT *L, T, I, SUM(M)* FROM *R* GROUP BY *L, T, I* UNION *ALL*
+```
 > SELECT *L, ALL, I, SUM(M)* FROM *R* GROUP BY *L, I* UNION *ALL*
 > SELECT *L, T, ALL, SUM(M)* FROM *R* GROUP BY *L, T* UNION *ALL*
 > SELECT *ALL, T, I, SUM(M)* FROM *R* GROUP BY *T, I* UNION *ALL*
