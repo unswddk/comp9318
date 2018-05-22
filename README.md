@@ -1,7 +1,12 @@
-# comp9318
+# comp9318 Assignment 1
+## student Name: Kun Dong
+## Student ID: z5047518
 
-| Tables        | Are           | Cool  |
-| ------------- |:-------------:| -----:|
-| col 3 is      | right-aligned | $1600 |
-| col 2 is      | centered      |   $12 |
-| zebra stripes | are neat      |    $1 |
+### question 1
+(1) Table R
+
+| cubeID        | Location      | Time  | Item | SUM(Quantity)|
+| ------------- |:-------------:| -----:|-----:|-------------:|
+| Location, Time, Item| Sydney | 2005| ps2| 1400|
+| Location, Time, Item| Sydney | 2006| ps2| 1500|
+| Location, Time, Item| Sydney | 2006| wii| 500|
