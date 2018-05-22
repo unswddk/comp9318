@@ -3,7 +3,7 @@
 #### Student ID: *z5047518*
 
 ## Question 1
-(1) Table R
+### (1) Table R
 
 | cubeID        | Location      | Time  | Item | SUM(Quantity)|
 | ------------- |:-------------:| -----:|-----:|-------------:|
@@ -37,7 +37,7 @@
 |  |  |  | | |  
 |  | ALL | ALL | ALL| **5100**|
 
-
+### (2)
 
 
 
