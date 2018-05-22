@@ -74,11 +74,11 @@ HAVING COUNT(*) > 1
 | cubeID        | Location      | Time  | Item | SUM(Quantity)|
 | ------------- |:-------------:| -----:|-----:|-------------:|
 | **Location, Time**| Sydney  | 2006 | ALL | 2000|
-| **Location, Item **| Sydney  | ALL | PS2 | 2900|
-| **Location **| Sydney  | ALL | ALL | 3400|
-| **Time **| ALL  | 2005 | ALL | 3100|
-| **Time **| ALL  | 2006 | ALL | 2000|
-| **Item **| ALL  | ALL | PS2 | 2900|
+| **Location, Item**| Sydney  | ALL | PS2 | 2900|
+| **Location**| Sydney  | ALL | ALL | 3400|
+| **Time**| ALL  | 2005 | ALL | 3100|
+| **Time**| ALL  | 2006 | ALL | 2000|
+| **Item**| ALL  | ALL | PS2 | 2900|
 | | ALL  | ALL | ALL | 5100|
 
 
