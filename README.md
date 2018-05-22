@@ -65,7 +65,8 @@ SELECT L, ALL, I, SUM(M) FROM R GROUP BY L, I UNION ALL
 ```SQL
  SELECT ALL, ALL, ALL, SUM(M) FROM R
  ```
-### (3) tabular form for ```sql SELECT Location, Time, Item, SUM(Quantity) FROM Sales CUBE BY Location, Time, Item HAVING COUNT(*) > 1```
+### (3) tabular form for ```SQL
+SELECT Location, Time, Item, SUM(Quantity) FROM Sales CUBE BY Location, Time, Item HAVING COUNT(*) > 1```
 | cubeID        | Location      | Time  | Item | SUM(Quantity)|
 | ------------- |:-------------:| -----:|-----:|-------------:|
 | *Location, Time *| Sydney  | 2006 | ALL | 2000|
