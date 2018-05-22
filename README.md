@@ -1,6 +1,6 @@
 # comp9318 Assignment 1
-#### *student Name: Kun Dong*
-#### *Student ID: z5047518*
+#### student Name: **Kun Dong**
+#### Student ID: **z5047518*
 
 ## Question 1
 (1) Table R
