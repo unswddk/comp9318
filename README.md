@@ -7,6 +7,6 @@
 
 | cubeID        | Location      | Time  | Item | SUM(Quantity)|
 | ------------- |:-------------:| -----:|-----:|-------------:|
-| Location, Time, Item| Sydney | 2005| ps2| #1400#|
-| Location, Time, Item| Sydney | 2006| ps2| #1500#|
-| Location, Time, Item| Sydney | 2006| wii| #500#|
+| Location, Time, Item| Sydney | 2005| ps2| **1400**|
+| Location, Time, Item| Sydney | 2006| ps2| **1500**|
+| Location, Time, Item| Sydney | 2006| wii| **500**|
